@@ -1,0 +1,8 @@
+C:\Users\Lab3\Desktop\PRG1\Parcial1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Lab3\Desktop\PRG1\Parcial1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Lab3\Desktop\PRG1\Parcial1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Lab3\Desktop\PRG1\Parcial1\ConsoleApplication1\obj\Debug\Principal.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\PRG1\Parcial1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Lab3\Desktop\PRG1\Parcial1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Lab3\Desktop\PRG1\Parcial1\ConsoleApplication1\bin\Debug\Libreria.dll
+C:\Users\Lab3\Desktop\PRG1\Parcial1\ConsoleApplication1\bin\Debug\Libreria.pdb
